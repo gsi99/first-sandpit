@@ -13,7 +13,7 @@ public class PreadviceParserTest {
 	@Test
 	public void testParse() {
 		
-		// Create a string payload of csv field
+		// Create a string payload of csv field...
 		String payload1 = "03,03,ZZ123456789GB,Chuck Castillo,businessName,deliveryAddress1,deliveryAddress2,deliveryAddress3,posttown,LS59IL,sortcode,"
 				+ "contract,serviceid,serviceenhancement,0808439555,sendersref1,sendersref2,safeplace,itemWeight,weightType,format,deliveryOption,"
 				+ "DeclaredValue,NotificationCode,RecipientEmail,RecipientTelephone,UniqueItemID,DeliveryCountry,RecipientContactNo,PricePaid,POLFADcode,"
